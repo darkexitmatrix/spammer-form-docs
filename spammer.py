@@ -21,7 +21,7 @@ name="""
 
 
 print(name)
-print("\n Server discord : https://discord.gg/PVprfDmUpM \n Credit : ")
+print("\n Server discord : https://discord.gg/PVprfDmUpM \n Credit : 𝐃𝐚𝐫𝐤#0174 ")
 time.sleep(3)
 os.system('cls')
 
