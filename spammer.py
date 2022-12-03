@@ -21,7 +21,7 @@ name="""
 
 
 print(name)
-print("\n Server discord : https://discord.gg/PVprfDmUpM \n Credit : 𝐃𝐚𝐫𝐤#0174 ")
+print("\n Server discord : https://discord.gg/PVprfDmUpM \n Credit : Darkexitmatrix")
 time.sleep(3)
 os.system('cls')
 
@@ -37,17 +37,20 @@ urlfinal= "https://docs.google.com/forms/d/e/" + url +"/formResponse"
 
 
 
+msg=(input("Message ? :"))
+#entry=int(input("Number of entry (Check readme):"))
+#for i in range(entry)
 
 def spammer():
     data = {
-        "entry.2092238618": "https://cdn.discordapp.com/attachments/945662348021100584/997288630924083230/vidoleo_demande23101.mp4",   
-        "entry.1556369182": "https://cdn.discordapp.com/attachments/945662348021100584/997288630924083230/vidoleo_demande23101.mp4",  
-        "entry.899712621": "https://cdn.discordapp.com/attachments/945662348021100584/997288630924083230/vidoleo_demande23101.mp4", 
-        "entry.998395622": "https://cdn.discordapp.com/attachments/945662348021100584/997288630924083230/vidoleo_demande23101.mp4",   
-        "entry.479301265": "https://cdn.discordapp.com/attachments/945662348021100584/997288630924083230/vidoleo_demande23101.mp4",
-        "entry.1753222212": "https://cdn.discordapp.com/attachments/945662348021100584/997288630924083230/vidoleo_demande23101.mp4",
-        "entry.588393791": "https://cdn.discordapp.com/attachments/945662348021100584/997288630924083230/vidoleo_demande23101.mp4",
-        "entry.406023859": "https://cdn.discordapp.com/attachments/945662348021100584/997288630924083230/vidoleo_demande23101.mp4"
+        "entry.2092238618": msg,   
+        "entry.1556369182": msg,  
+        "entry.899712621": msg, 
+        "entry.998395622": msg,   
+        "entry.479301265": msg,
+        "entry.1753222212":msg,
+        "entry.588393791": msg,
+        "entry.406023859": msg
     }
 
 
