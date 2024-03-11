@@ -21,7 +21,7 @@ name="""
 
 
 print(name)
-print("\n Server discord : https://discord.gg/PVprfDmUpM \n Credit : Darkexitmatrix")
+print("\n EDUCATION ONLY")
 time.sleep(3)
 os.system('cls')
 
